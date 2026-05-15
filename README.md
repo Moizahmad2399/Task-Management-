@@ -92,7 +92,7 @@ Make sure you have these installed:
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/Moizahmad2399/Task-Management.git
 cd todo-app
 ```
 
@@ -247,7 +247,7 @@ todo-app/
 
 **Moiz Ahmad**
 🎓 BSSE — COMSATS University Islamabad, Vehari Campus
-📧 your-email@example.com
+📧 your-moizahmad2399@gmail.com
 🌐 [github.com/Moizahmad2399](https://github.com/Moizahmad2399)
 
 ---
