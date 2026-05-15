@@ -4,14 +4,14 @@
 
 ![Registration page]<img width="1598" height="883" alt="Regstration page" src="https://github.com/user-attachments/assets/97a4ca90-7a6d-4023-8dd4-fe5c061e8dbc" />
 
-![Login Page](<img width="1236" height="860" alt="Login Page" src="https://github.com/user-attachments/assets/d44583fe-1c74-47ce-9ea4-99dc93543551" />
-)
-![Dashboard](<img width="1618" height="893" alt="Dashboard" src="https://github.com/user-attachments/assets/817e7c5b-b582-4a74-8bcc-99d45d3906dc" />
-)
-![Edit Task](<img width="1677" height="927" alt="edit" src="https://github.com/user-attachments/assets/85686aff-3926-471f-a4b2-0e6415a44d4c" />
-)
-![Tasks](<img width="1493" height="732" alt="tasks" src="https://github.com/user-attachments/assets/508b794b-d78b-4758-916c-8d201c13af25" />
-)
+![Login Page]<img width="1236" height="860" alt="Login Page" src="https://github.com/user-attachments/assets/d44583fe-1c74-47ce-9ea4-99dc93543551" />
+
+![Dashboard]<img width="1618" height="893" alt="Dashboard" src="https://github.com/user-attachments/assets/817e7c5b-b582-4a74-8bcc-99d45d3906dc" />
+
+![Edit Task]<img width="1677" height="927" alt="edit" src="https://github.com/user-attachments/assets/85686aff-3926-471f-a4b2-0e6415a44d4c" />
+
+![Tasks]<img width="1493" height="732" alt="tasks" src="https://github.com/user-attachments/assets/508b794b-d78b-4758-916c-8d201c13af25" />
+
 
 **A modern, full-stack To-Do List web application built with Laravel.**
 Secure authentication · Interactive charts · Beautiful dark UI 🚀
