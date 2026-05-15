@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![Registration page](<img width="1598" height="883" alt="Regstration page" src="https://github.com/user-attachments/assets/97a4ca90-7a6d-4023-8dd4-fe5c061e8dbc" />
-)
+![Registration page]<img width="1598" height="883" alt="Regstration page" src="https://github.com/user-attachments/assets/97a4ca90-7a6d-4023-8dd4-fe5c061e8dbc" />
+
 ![Login Page](<img width="1236" height="860" alt="Login Page" src="https://github.com/user-attachments/assets/d44583fe-1c74-47ce-9ea4-99dc93543551" />
 )
 ![Dashboard](<img width="1618" height="893" alt="Dashboard" src="https://github.com/user-attachments/assets/817e7c5b-b582-4a74-8bcc-99d45d3906dc" />
